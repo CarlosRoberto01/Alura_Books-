@@ -1,3 +1,3 @@
 # Alura_Books-
 
-  Treinamento do curso de Javascript: metodos de array.
+  Treinamento do curso de Javascript: métodos de array.
